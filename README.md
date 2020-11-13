@@ -1,7 +1,9 @@
 # WorkoutTracker
 ## Description
-This site utlitizes the mongo database to catch and store the user input. Then will return the users last work out on the main page. 
-![Fitness Tracker Home ](public/assets/Screenshot(87).png)
+This site utlitizes the mongo database to catch and store the user input. Then will return the users last work out on the main page.
+
+![Fitness Tracker Home ](public/assets/Screenshot87.png)
+
 ## Table of Contents
 * [Installation](##Installation)
 * [Usage](##Usage)
@@ -15,8 +17,10 @@ This site utlitizes the mongo database to catch and store the user input. Then w
 3. In side your terminal run these commands "npm i" and "node seeders/seed.js" this will put data in mongodb so that the site looks complete.
 4. Open [localhost:3000](http://localhost:3000/) and enjoy!
 ## Usage
-As a user I can track my workouts in real time. So that I see my progress. The site also has a function to further my workouts if I wanted to abound on my skills. 
-![Fitness Tracker Last Workout ](public/assets/Screenshot(86).png)
+As a user I can track my workouts in real time. So that I see my progress. The site also has a function to further my workouts if I wanted to abound on my skills.
+
+![Fitness Tracker Last Workout ](public/assets/Screenshot86.png)
+
 ## License
 This project uses the MIT license.
 ## Contributers
